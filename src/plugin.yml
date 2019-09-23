@@ -1,0 +1,10 @@
+name: QuantumStaff
+version: BETA-1.0
+main: me.apposed.quantum.staff.Quantum
+author: Apposed
+website: https://www.mc-market.org/members/100526/
+commands:
+  staffmode:
+    aliases: [modmode, mod, staff, sm, mm]
+  vanish:
+    aliases: [v]

@@ -1,0 +1,34 @@
+gamemode_update: "&eYour gaemmode has been set to &6%gamemode%."
+vanish_update: "&eYour vanish has been toggled %status%."
+teleport_message: "&eYou have teleported to &6%player%."
+inspect_inventory_message: "&eOpening &6%player%'s &einventory."
+freeze_yourself: "&cYou cannot freeze yourself."
+frozen_executor: "&eYou have froze &6%player%."
+frozen_frozen: "&eYou have been frozen by a staff member."
+frozen_staff: "&6%executor% &efroze &6%player%."
+unfrozen_executor: "&eYou have unfroze &6%player%."
+unfrozen_frozen: "&eYou have been unfrozen by a staff member."
+unfrozen_staff: "&6%executor% &eunfroze &6%player%."
+enter_staffmode: "&eYou have entered staff mode"
+leave_staffmode: "&eYou have left staff mode"
+clearchat_global: "&cChat has been cleared by %player%."
+clearchat_executor: "&cYou have cleared the chat"
+mutechat_global: "&cChat has been muted by %player%."
+mutechat_executor: "&cYou have muted the chat."
+unmutechat_global: "&aChat has been unmuted by %player%."
+unmutechat_executor: "&aYou have unmuted the chat."
+teamspeak_ip: "ts.quantumop.dev"
+currently_frozen: "&eYou have been frozen by a staff member \n Do &4&n&lNOT &elogout or you will be permanently banned. \n Please join our teamspeak &6%teamspeak%"
+staffmode:
+  items:
+    clock:
+      name: "&2Random Teleport"
+    compass:
+      name: "&2Teleportation Compass"
+    book:
+      name: "&2Inspect Inventory"
+    ice:
+      name: "&2Freeze Player"
+    vanish:
+      name: "&2Toggle Vanish"
+license_key: "license_key_here"
